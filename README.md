@@ -25,3 +25,5 @@ Features:
 	* The source code for the Manager's application
 * ClientStudent
 	* The source code for the Student's application
+* SchoolRecords
+	* The built libraries/executables for the project (Built in DEBUG) also Ready for use
