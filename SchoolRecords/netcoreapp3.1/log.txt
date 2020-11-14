@@ -1,0 +1,33 @@
+[Warning]: Filling in database chunks
+[Success]: Finished filling in chunks
+[Success]: Successfully filled in database chunks
+[Warning]: Creating chunk: C:\Users\spiralgrisou\source\repos\SchoolRecords\SchoolRecords\netcoreapp3.1\Database\Students\Test
+[Warning]: Creating entry: C:\Users\spiralgrisou\source\repos\SchoolRecords\SchoolRecords\netcoreapp3.1\Database\Students\Test\Age
+[Success]: Finished filling in chunks
+[Success]: Finished filling in chunks
+[Success]: Successfully created [Entry]:[Age]
+[Warning]: Creating entry: C:\Users\spiralgrisou\source\repos\SchoolRecords\SchoolRecords\netcoreapp3.1\Database\Students\Test\Name
+[Success]: Successfully created [Entry]:[Name]
+[Warning]: Creating entry: C:\Users\spiralgrisou\source\repos\SchoolRecords\SchoolRecords\netcoreapp3.1\Database\Students\Test\Password
+[Success]: Successfully created [Entry]:[Password]
+[Warning]: Creating entry: C:\Users\spiralgrisou\source\repos\SchoolRecords\SchoolRecords\netcoreapp3.1\Database\Students\Test\Sex
+[Success]: Successfully created [Entry]:[Sex]
+[Success]: Finished filling in entries
+[Success]: School Systems ©1998
+Commands:
+help : Shows commands list
+clear : Clears console
+getstudent <StudentName> : Get student information
+addstudent <StudentName> <Age> <Sex> <Password> : Add student to database
+selectstudent <StudentName> : Selects student
+editselected <NewStudentName> <NewAge> <NewSex> <Password> : Edit currently selected student
+getstudents : Shows you all signed in student names
+clearselected : Clears selected student
+showselected : Shows selected student
+deleteselected : Deletes selected student from database
+reloaddatabase : Reloads database
+showmeetings : Shows meetings requests from students
+deletemeeting <MeetingName> : Delete meeting from database
+exit : Exits console
+[Warning]: Enter Command: 
+[Warning]: Writing to logs

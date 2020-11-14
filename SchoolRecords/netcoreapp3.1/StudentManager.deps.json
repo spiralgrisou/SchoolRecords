@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StudentManager/1.0.0": {
+        "dependencies": {
+          "DebuggingLog": "1.0.0",
+          "IOData": "1.0.0"
+        },
+        "runtime": {
+          "StudentManager.dll": {}
+        }
+      },
+      "DebuggingLog/1.0.0": {
+        "runtime": {
+          "DebuggingLog.dll": {}
+        }
+      },
+      "IOData/1.0.0": {
+        "dependencies": {
+          "DebuggingLog": "1.0.0"
+        },
+        "runtime": {
+          "IOData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DebuggingLog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
