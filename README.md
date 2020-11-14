@@ -9,12 +9,14 @@ Features:
 	* Can get to see his own account information obviously.
 	* Can request a meeting and then wait for a response from a teacher.
 - - - -
+
 <details>
 	<summary>Features I was planning to add but I didn't :grin:</summary>
 	<p>
 		Make a TCP Server for the students to interact with as this is not secured at all, They can get into the database files and get a password of any account.
 	</p>
 </details>
+
 - - - -
 # Project folders
 * Dikserator
@@ -25,3 +27,5 @@ Features:
 	* The source code for the Manager's application
 * ClientStudent
 	* The source code for the Student's application
+* SchoolRecords
+	* The built libraries/executables for the project (Built in DEBUG) also Ready for use
