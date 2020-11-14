@@ -1,5 +1,4 @@
 # School Records system
-- - - -
 Features:
 * File/Directory database (Can be used in a server but is not great at all for commercial use)
 * A Manager's Application for editing the school's database
